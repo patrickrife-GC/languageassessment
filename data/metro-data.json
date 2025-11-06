@@ -1,0 +1,534 @@
+[
+  {
+    "zipCode": "10001",
+    "city": "New York",
+    "state": "NY",
+    "totalPopulation": 21879,
+    "languages": [
+      { "language": "Spanish", "percentage": 24.5, "speakers": 5360 },
+      { "language": "Chinese", "percentage": 8.2, "speakers": 1794 },
+      { "language": "Korean", "percentage": 3.4, "speakers": 744 },
+      { "language": "French", "percentage": 2.8, "speakers": 613 },
+      { "language": "Russian", "percentage": 2.1, "speakers": 459 },
+      { "language": "Italian", "percentage": 1.9, "speakers": 416 },
+      { "language": "Arabic", "percentage": 1.7, "speakers": 372 },
+      { "language": "Polish", "percentage": 1.5, "speakers": 328 },
+      { "language": "Japanese", "percentage": 1.4, "speakers": 306 },
+      { "language": "Tagalog", "percentage": 1.3, "speakers": 284 }
+    ],
+    "englishLessThanVeryWellPercentage": 18.7
+  },
+  {
+    "zipCode": "90001",
+    "city": "Los Angeles",
+    "state": "CA",
+    "totalPopulation": 57110,
+    "languages": [
+      { "language": "Spanish", "percentage": 82.3, "speakers": 47001 },
+      { "language": "Chinese", "percentage": 1.2, "speakers": 685 },
+      { "language": "Tagalog", "percentage": 0.8, "speakers": 457 },
+      { "language": "Korean", "percentage": 0.6, "speakers": 343 },
+      { "language": "Vietnamese", "percentage": 0.5, "speakers": 286 },
+      { "language": "Armenian", "percentage": 0.4, "speakers": 228 },
+      { "language": "Arabic", "percentage": 0.3, "speakers": 171 },
+      { "language": "Japanese", "percentage": 0.3, "speakers": 171 },
+      { "language": "Persian", "percentage": 0.2, "speakers": 114 },
+      { "language": "Russian", "percentage": 0.2, "speakers": 114 }
+    ],
+    "englishLessThanVeryWellPercentage": 52.1
+  },
+  {
+    "zipCode": "60601",
+    "city": "Chicago",
+    "state": "IL",
+    "totalPopulation": 19288,
+    "languages": [
+      { "language": "Spanish", "percentage": 12.4, "speakers": 2392 },
+      { "language": "Chinese", "percentage": 4.2, "speakers": 810 },
+      { "language": "Polish", "percentage": 2.8, "speakers": 540 },
+      { "language": "Arabic", "percentage": 1.9, "speakers": 366 },
+      { "language": "Tagalog", "percentage": 1.6, "speakers": 309 },
+      { "language": "Russian", "percentage": 1.4, "speakers": 270 },
+      { "language": "Hindi", "percentage": 1.2, "speakers": 231 },
+      { "language": "Korean", "percentage": 1.1, "speakers": 212 },
+      { "language": "Vietnamese", "percentage": 0.9, "speakers": 174 },
+      { "language": "French", "percentage": 0.8, "speakers": 154 }
+    ],
+    "englishLessThanVeryWellPercentage": 8.3
+  },
+  {
+    "zipCode": "77001",
+    "city": "Houston",
+    "state": "TX",
+    "totalPopulation": 2906,
+    "languages": [
+      { "language": "Spanish", "percentage": 35.2, "speakers": 1023 },
+      { "language": "Vietnamese", "percentage": 3.8, "speakers": 110 },
+      { "language": "Chinese", "percentage": 2.4, "speakers": 70 },
+      { "language": "Arabic", "percentage": 1.9, "speakers": 55 },
+      { "language": "Urdu", "percentage": 1.6, "speakers": 46 },
+      { "language": "Hindi", "percentage": 1.4, "speakers": 41 },
+      { "language": "Tagalog", "percentage": 1.2, "speakers": 35 },
+      { "language": "French", "percentage": 1.1, "speakers": 32 },
+      { "language": "Korean", "percentage": 0.9, "speakers": 26 },
+      { "language": "Nigerian languages", "percentage": 0.8, "speakers": 23 }
+    ],
+    "englishLessThanVeryWellPercentage": 15.4
+  },
+  {
+    "zipCode": "85001",
+    "city": "Phoenix",
+    "state": "AZ",
+    "totalPopulation": 11627,
+    "languages": [
+      { "language": "Spanish", "percentage": 42.8, "speakers": 4976 },
+      { "language": "Chinese", "percentage": 2.1, "speakers": 244 },
+      { "language": "Vietnamese", "percentage": 1.8, "speakers": 209 },
+      { "language": "Tagalog", "percentage": 1.4, "speakers": 163 },
+      { "language": "Arabic", "percentage": 1.2, "speakers": 139 },
+      { "language": "Navajo", "percentage": 0.9, "speakers": 105 },
+      { "language": "Korean", "percentage": 0.8, "speakers": 93 },
+      { "language": "German", "percentage": 0.7, "speakers": 81 },
+      { "language": "French", "percentage": 0.6, "speakers": 70 },
+      { "language": "Russian", "percentage": 0.5, "speakers": 58 }
+    ],
+    "englishLessThanVeryWellPercentage": 21.3
+  },
+  {
+    "zipCode": "19101",
+    "city": "Philadelphia",
+    "state": "PA",
+    "totalPopulation": 15746,
+    "languages": [
+      { "language": "Spanish", "percentage": 8.9, "speakers": 1401 },
+      { "language": "Chinese", "percentage": 6.2, "speakers": 976 },
+      { "language": "Vietnamese", "percentage": 2.3, "speakers": 362 },
+      { "language": "French", "percentage": 1.8, "speakers": 283 },
+      { "language": "Russian", "percentage": 1.6, "speakers": 252 },
+      { "language": "Korean", "percentage": 1.4, "speakers": 220 },
+      { "language": "Arabic", "percentage": 1.2, "speakers": 189 },
+      { "language": "Italian", "percentage": 1.1, "speakers": 173 },
+      { "language": "Polish", "percentage": 0.9, "speakers": 142 },
+      { "language": "Hindi", "percentage": 0.8, "speakers": 126 }
+    ],
+    "englishLessThanVeryWellPercentage": 7.4
+  },
+  {
+    "zipCode": "78201",
+    "city": "San Antonio",
+    "state": "TX",
+    "totalPopulation": 6852,
+    "languages": [
+      { "language": "Spanish", "percentage": 68.4, "speakers": 4687 },
+      { "language": "Chinese", "percentage": 1.2, "speakers": 82 },
+      { "language": "Vietnamese", "percentage": 0.9, "speakers": 62 },
+      { "language": "Tagalog", "percentage": 0.7, "speakers": 48 },
+      { "language": "Arabic", "percentage": 0.6, "speakers": 41 },
+      { "language": "German", "percentage": 0.5, "speakers": 34 },
+      { "language": "French", "percentage": 0.4, "speakers": 27 },
+      { "language": "Korean", "percentage": 0.4, "speakers": 27 },
+      { "language": "Hindi", "percentage": 0.3, "speakers": 21 },
+      { "language": "Russian", "percentage": 0.3, "speakers": 21 }
+    ],
+    "englishLessThanVeryWellPercentage": 32.7
+  },
+  {
+    "zipCode": "92101",
+    "city": "San Diego",
+    "state": "CA",
+    "totalPopulation": 31503,
+    "languages": [
+      { "language": "Spanish", "percentage": 18.7, "speakers": 5891 },
+      { "language": "Tagalog", "percentage": 3.4, "speakers": 1071 },
+      { "language": "Vietnamese", "percentage": 2.8, "speakers": 882 },
+      { "language": "Chinese", "percentage": 2.6, "speakers": 819 },
+      { "language": "Arabic", "percentage": 1.9, "speakers": 599 },
+      { "language": "Korean", "percentage": 1.6, "speakers": 504 },
+      { "language": "Persian", "percentage": 1.2, "speakers": 378 },
+      { "language": "French", "percentage": 1.1, "speakers": 347 },
+      { "language": "Japanese", "percentage": 0.9, "speakers": 284 },
+      { "language": "Russian", "percentage": 0.8, "speakers": 252 }
+    ],
+    "englishLessThanVeryWellPercentage": 11.2
+  },
+  {
+    "zipCode": "75201",
+    "city": "Dallas",
+    "state": "TX",
+    "totalPopulation": 2540,
+    "languages": [
+      { "language": "Spanish", "percentage": 38.6, "speakers": 981 },
+      { "language": "Chinese", "percentage": 2.4, "speakers": 61 },
+      { "language": "Vietnamese", "percentage": 1.9, "speakers": 48 },
+      { "language": "Arabic", "percentage": 1.6, "speakers": 41 },
+      { "language": "Korean", "percentage": 1.4, "speakers": 36 },
+      { "language": "Hindi", "percentage": 1.2, "speakers": 30 },
+      { "language": "Urdu", "percentage": 1.1, "speakers": 28 },
+      { "language": "Tagalog", "percentage": 0.9, "speakers": 23 },
+      { "language": "French", "percentage": 0.8, "speakers": 20 },
+      { "language": "Nigerian languages", "percentage": 0.7, "speakers": 18 }
+    ],
+    "englishLessThanVeryWellPercentage": 16.8
+  },
+  {
+    "zipCode": "95101",
+    "city": "San Jose",
+    "state": "CA",
+    "totalPopulation": 7813,
+    "languages": [
+      { "language": "Spanish", "percentage": 24.3, "speakers": 1899 },
+      { "language": "Vietnamese", "percentage": 18.6, "speakers": 1453 },
+      { "language": "Chinese", "percentage": 9.4, "speakers": 734 },
+      { "language": "Tagalog", "percentage": 4.2, "speakers": 328 },
+      { "language": "Korean", "percentage": 2.8, "speakers": 219 },
+      { "language": "Hindi", "percentage": 2.1, "speakers": 164 },
+      { "language": "Persian", "percentage": 1.6, "speakers": 125 },
+      { "language": "Japanese", "percentage": 1.4, "speakers": 109 },
+      { "language": "Arabic", "percentage": 1.2, "speakers": 94 },
+      { "language": "Portuguese", "percentage": 1.1, "speakers": 86 }
+    ],
+    "englishLessThanVeryWellPercentage": 28.4
+  },
+  {
+    "zipCode": "78701",
+    "city": "Austin",
+    "state": "TX",
+    "totalPopulation": 11044,
+    "languages": [
+      { "language": "Spanish", "percentage": 16.8, "speakers": 1855 },
+      { "language": "Chinese", "percentage": 3.2, "speakers": 353 },
+      { "language": "Vietnamese", "percentage": 2.1, "speakers": 232 },
+      { "language": "Arabic", "percentage": 1.8, "speakers": 199 },
+      { "language": "Korean", "percentage": 1.6, "speakers": 177 },
+      { "language": "Hindi", "percentage": 1.4, "speakers": 155 },
+      { "language": "French", "percentage": 1.2, "speakers": 133 },
+      { "language": "Tagalog", "percentage": 1.1, "speakers": 121 },
+      { "language": "Urdu", "percentage": 0.9, "speakers": 99 },
+      { "language": "German", "percentage": 0.8, "speakers": 88 }
+    ],
+    "englishLessThanVeryWellPercentage": 8.9
+  },
+  {
+    "zipCode": "32801",
+    "city": "Orlando",
+    "state": "FL",
+    "totalPopulation": 13619,
+    "languages": [
+      { "language": "Spanish", "percentage": 45.2, "speakers": 6156 },
+      { "language": "French Creole", "percentage": 3.8, "speakers": 518 },
+      { "language": "Portuguese", "percentage": 2.4, "speakers": 327 },
+      { "language": "Vietnamese", "percentage": 1.6, "speakers": 218 },
+      { "language": "Chinese", "percentage": 1.4, "speakers": 191 },
+      { "language": "Arabic", "percentage": 1.2, "speakers": 163 },
+      { "language": "Tagalog", "percentage": 1.1, "speakers": 150 },
+      { "language": "French", "percentage": 0.9, "speakers": 123 },
+      { "language": "Hindi", "percentage": 0.8, "speakers": 109 },
+      { "language": "Korean", "percentage": 0.7, "speakers": 95 }
+    ],
+    "englishLessThanVeryWellPercentage": 24.3
+  },
+  {
+    "zipCode": "21201",
+    "city": "Baltimore",
+    "state": "MD",
+    "totalPopulation": 68340,
+    "languages": [
+      { "language": "Spanish", "percentage": 12.3, "speakers": 8406 },
+      { "language": "Chinese", "percentage": 3.1, "speakers": 2119 },
+      { "language": "Vietnamese", "percentage": 2.8, "speakers": 1914 },
+      { "language": "French", "percentage": 2.1, "speakers": 1435 },
+      { "language": "Korean", "percentage": 1.9, "speakers": 1298 },
+      { "language": "Tagalog", "percentage": 1.7, "speakers": 1162 },
+      { "language": "African languages", "percentage": 1.5, "speakers": 1025 },
+      { "language": "Arabic", "percentage": 1.4, "speakers": 957 },
+      { "language": "Russian", "percentage": 1.2, "speakers": 820 },
+      { "language": "German", "percentage": 1.1, "speakers": 751 }
+    ],
+    "englishLessThanVeryWellPercentage": 14.2
+  },
+  {
+    "zipCode": "33101",
+    "city": "Miami",
+    "state": "FL",
+    "totalPopulation": 54",
+    "languages": [
+      { "language": "Spanish", "percentage": 67.8, "speakers": 37 },
+      { "language": "French Creole", "percentage": 12.4, "speakers": 7 },
+      { "language": "Portuguese", "percentage": 4.2, "speakers": 2 },
+      { "language": "French", "percentage": 2.8, "speakers": 2 },
+      { "language": "Italian", "percentage": 1.9, "speakers": 1 },
+      { "language": "Chinese", "percentage": 1.6, "speakers": 1 },
+      { "language": "Russian", "percentage": 1.4, "speakers": 1 },
+      { "language": "Hebrew", "percentage": 1.2, "speakers": 1 },
+      { "language": "Arabic", "percentage": 0.9, "speakers": 0 },
+      { "language": "German", "percentage": 0.8, "speakers": 0 }
+    ],
+    "englishLessThanVeryWellPercentage": 42.6
+  },
+  {
+    "zipCode": "98101",
+    "city": "Seattle",
+    "state": "WA",
+    "totalPopulation": 11937,
+    "languages": [
+      { "language": "Spanish", "percentage": 8.4, "speakers": 1003 },
+      { "language": "Chinese", "percentage": 6.2, "speakers": 740 },
+      { "language": "Vietnamese", "percentage": 3.4, "speakers": 406 },
+      { "language": "Korean", "percentage": 2.8, "speakers": 334 },
+      { "language": "Tagalog", "percentage": 2.1, "speakers": 251 },
+      { "language": "Japanese", "percentage": 1.9, "speakers": 227 },
+      { "language": "Russian", "percentage": 1.6, "speakers": 191 },
+      { "language": "Amharic", "percentage": 1.4, "speakers": 167 },
+      { "language": "Somali", "percentage": 1.2, "speakers": 143 },
+      { "language": "Hindi", "percentage": 1.1, "speakers": 131 }
+    ],
+    "englishLessThanVeryWellPercentage": 9.8
+  },
+  {
+    "zipCode": "80201",
+    "city": "Denver",
+    "state": "CO",
+    "totalPopulation": 3721,
+    "languages": [
+      { "language": "Spanish", "percentage": 18.6, "speakers": 692 },
+      { "language": "Chinese", "percentage": 2.4, "speakers": 89 },
+      { "language": "Vietnamese", "percentage": 1.9, "speakers": 71 },
+      { "language": "Arabic", "percentage": 1.6, "speakers": 60 },
+      { "language": "Korean", "percentage": 1.4, "speakers": 52 },
+      { "language": "Russian", "percentage": 1.2, "speakers": 45 },
+      { "language": "Amharic", "percentage": 1.1, "speakers": 41 },
+      { "language": "French", "percentage": 0.9, "speakers": 33 },
+      { "language": "Somali", "percentage": 0.8, "speakers": 30 },
+      { "language": "Burmese", "percentage": 0.7, "speakers": 26 }
+    ],
+    "englishLessThanVeryWellPercentage": 11.4
+  },
+  {
+    "zipCode": "02101",
+    "city": "Boston",
+    "state": "MA",
+    "totalPopulation": 2071,
+    "languages": [
+      { "language": "Spanish", "percentage": 14.2, "speakers": 294 },
+      { "language": "Chinese", "percentage": 8.6, "speakers": 178 },
+      { "language": "Portuguese", "percentage": 3.4, "speakers": 70 },
+      { "language": "French Creole", "percentage": 2.8, "speakers": 58 },
+      { "language": "Vietnamese", "percentage": 2.1, "speakers": 43 },
+      { "language": "Arabic", "percentage": 1.9, "speakers": 39 },
+      { "language": "Italian", "percentage": 1.6, "speakers": 33 },
+      { "language": "Russian", "percentage": 1.4, "speakers": 29 },
+      { "language": "French", "percentage": 1.2, "speakers": 25 },
+      { "language": "Hindi", "percentage": 1.1, "speakers": 23 }
+    ],
+    "englishLessThanVeryWellPercentage": 12.3
+  },
+  {
+    "zipCode": "20001",
+    "city": "Washington",
+    "state": "DC",
+    "totalPopulation": 17843,
+    "languages": [
+      { "language": "Spanish", "percentage": 18.4, "speakers": 3283 },
+      { "language": "Chinese", "percentage": 4.2, "speakers": 749 },
+      { "language": "Amharic", "percentage": 3.8, "speakers": 678 },
+      { "language": "French", "percentage": 2.9, "speakers": 517 },
+      { "language": "Vietnamese", "percentage": 2.1, "speakers": 375 },
+      { "language": "Korean", "percentage": 1.9, "speakers": 339 },
+      { "language": "Arabic", "percentage": 1.6, "speakers": 285 },
+      { "language": "Tagalog", "percentage": 1.4, "speakers": 250 },
+      { "language": "Hindi", "percentage": 1.2, "speakers": 214 },
+      { "language": "Russian", "percentage": 1.1, "speakers": 196 }
+    ],
+    "englishLessThanVeryWellPercentage": 11.8
+  },
+  {
+    "zipCode": "37201",
+    "city": "Nashville",
+    "state": "TN",
+    "totalPopulation": 2453,
+    "languages": [
+      { "language": "Spanish", "percentage": 24.3, "speakers": 596 },
+      { "language": "Arabic", "percentage": 3.2, "speakers": 78 },
+      { "language": "Kurdish", "percentage": 2.4, "speakers": 59 },
+      { "language": "Vietnamese", "percentage": 1.9, "speakers": 47 },
+      { "language": "Chinese", "percentage": 1.6, "speakers": 39 },
+      { "language": "Somali", "percentage": 1.4, "speakers": 34 },
+      { "language": "Burmese", "percentage": 1.2, "speakers": 29 },
+      { "language": "French", "percentage": 1.1, "speakers": 27 },
+      { "language": "Korean", "percentage": 0.9, "speakers": 22 },
+      { "language": "Nepali", "percentage": 0.8, "speakers": 20 }
+    ],
+    "englishLessThanVeryWellPercentage": 13.7
+  },
+  {
+    "zipCode": "97201",
+    "city": "Portland",
+    "state": "OR",
+    "totalPopulation": 10689,
+    "languages": [
+      { "language": "Spanish", "percentage": 12.4, "speakers": 1325 },
+      { "language": "Chinese", "percentage": 3.8, "speakers": 406 },
+      { "language": "Vietnamese", "percentage": 2.9, "speakers": 310 },
+      { "language": "Russian", "percentage": 2.1, "speakers": 224 },
+      { "language": "Korean", "percentage": 1.8, "speakers": 192 },
+      { "language": "Japanese", "percentage": 1.6, "speakers": 171 },
+      { "language": "Somali", "percentage": 1.4, "speakers": 150 },
+      { "language": "Tagalog", "percentage": 1.2, "speakers": 128 },
+      { "language": "Arabic", "percentage": 1.1, "speakers": 118 },
+      { "language": "French", "percentage": 0.9, "speakers": 96 }
+    ],
+    "englishLessThanVeryWellPercentage": 8.6
+  },
+  {
+    "zipCode": "89101",
+    "city": "Las Vegas",
+    "state": "NV",
+    "totalPopulation": 19087,
+    "languages": [
+      { "language": "Spanish", "percentage": 58.4, "speakers": 11147 },
+      { "language": "Tagalog", "percentage": 4.2, "speakers": 802 },
+      { "language": "Chinese", "percentage": 2.8, "speakers": 534 },
+      { "language": "Vietnamese", "percentage": 1.9, "speakers": 363 },
+      { "language": "Korean", "percentage": 1.6, "speakers": 305 },
+      { "language": "Arabic", "percentage": 1.4, "speakers": 267 },
+      { "language": "Thai", "percentage": 1.2, "speakers": 229 },
+      { "language": "Portuguese", "percentage": 0.9, "speakers": 172 },
+      { "language": "Russian", "percentage": 0.8, "speakers": 153 },
+      { "language": "French", "percentage": 0.7, "speakers": 134 }
+    ],
+    "englishLessThanVeryWellPercentage": 34.6
+  },
+  {
+    "zipCode": "63101",
+    "city": "St. Louis",
+    "state": "MO",
+    "totalPopulation": 1723,
+    "languages": [
+      { "language": "Spanish", "percentage": 8.4, "speakers": 145 },
+      { "language": "Chinese", "percentage": 2.8, "speakers": 48 },
+      { "language": "Vietnamese", "percentage": 1.9, "speakers": 33 },
+      { "language": "Bosnian", "percentage": 1.6, "speakers": 28 },
+      { "language": "Arabic", "percentage": 1.4, "speakers": 24 },
+      { "language": "French", "percentage": 1.2, "speakers": 21 },
+      { "language": "Somali", "percentage": 0.9, "speakers": 16 },
+      { "language": "Russian", "percentage": 0.8, "speakers": 14 },
+      { "language": "Korean", "percentage": 0.7, "speakers": 12 },
+      { "language": "Hindi", "percentage": 0.6, "speakers": 10 }
+    ],
+    "englishLessThanVeryWellPercentage": 5.2
+  },
+  {
+    "zipCode": "55401",
+    "city": "Minneapolis",
+    "state": "MN",
+    "totalPopulation": 5634,
+    "languages": [
+      { "language": "Spanish", "percentage": 9.8, "speakers": 552 },
+      { "language": "Somali", "percentage": 6.4, "speakers": 361 },
+      { "language": "Hmong", "percentage": 3.2, "speakers": 180 },
+      { "language": "Vietnamese", "percentage": 2.4, "speakers": 135 },
+      { "language": "Chinese", "percentage": 2.1, "speakers": 118 },
+      { "language": "Amharic", "percentage": 1.9, "speakers": 107 },
+      { "language": "Karen", "percentage": 1.6, "speakers": 90 },
+      { "language": "Arabic", "percentage": 1.4, "speakers": 79 },
+      { "language": "Russian", "percentage": 1.2, "speakers": 68 },
+      { "language": "Oromo", "percentage": 1.1, "speakers": 62 }
+    ],
+    "englishLessThanVeryWellPercentage": 11.9
+  },
+  {
+    "zipCode": "30301",
+    "city": "Atlanta",
+    "state": "GA",
+    "totalPopulation": 1447,
+    "languages": [
+      { "language": "Spanish", "percentage": 18.6, "speakers": 269 },
+      { "language": "Chinese", "percentage": 2.8, "speakers": 41 },
+      { "language": "Vietnamese", "percentage": 2.1, "speakers": 30 },
+      { "language": "Korean", "percentage": 1.9, "speakers": 27 },
+      { "language": "French", "percentage": 1.6, "speakers": 23 },
+      { "language": "Hindi", "percentage": 1.4, "speakers": 20 },
+      { "language": "Arabic", "percentage": 1.2, "speakers": 17 },
+      { "language": "Amharic", "percentage": 1.1, "speakers": 16 },
+      { "language": "Urdu", "percentage": 0.9, "speakers": 13 },
+      { "language": "Gujarati", "percentage": 0.8, "speakers": 12 }
+    ],
+    "englishLessThanVeryWellPercentage": 9.4
+  },
+  {
+    "zipCode": "44101",
+    "city": "Cleveland",
+    "state": "OH",
+    "totalPopulation": 11784,
+    "languages": [
+      { "language": "Spanish", "percentage": 14.3, "speakers": 1685 },
+      { "language": "Arabic", "percentage": 3.2, "speakers": 377 },
+      { "language": "Chinese", "percentage": 2.4, "speakers": 283 },
+      { "language": "Vietnamese", "percentage": 1.9, "speakers": 224 },
+      { "language": "Russian", "percentage": 1.6, "speakers": 189 },
+      { "language": "Albanian", "percentage": 1.4, "speakers": 165 },
+      { "language": "Somali", "percentage": 1.2, "speakers": 141 },
+      { "language": "Nepali", "percentage": 1.1, "speakers": 130 },
+      { "language": "Ukrainian", "percentage": 0.9, "speakers": 106 },
+      { "language": "Polish", "percentage": 0.8, "speakers": 94 }
+    ],
+    "englishLessThanVeryWellPercentage": 8.9
+  },
+  {
+    "zipCode": "46201",
+    "city": "Indianapolis",
+    "state": "IN",
+    "totalPopulation": 14326,
+    "languages": [
+      { "language": "Spanish", "percentage": 18.4, "speakers": 2636 },
+      { "language": "Burmese", "percentage": 3.2, "speakers": 458 },
+      { "language": "Arabic", "percentage": 2.1, "speakers": 301 },
+      { "language": "Chinese", "percentage": 1.8, "speakers": 258 },
+      { "language": "Swahili", "percentage": 1.6, "speakers": 229 },
+      { "language": "Nepali", "percentage": 1.4, "speakers": 201 },
+      { "language": "Vietnamese", "percentage": 1.2, "speakers": 172 },
+      { "language": "Somali", "percentage": 1.1, "speakers": 158 },
+      { "language": "Kinyarwanda", "percentage": 0.9, "speakers": 129 },
+      { "language": "Karen", "percentage": 0.8, "speakers": 115 }
+    ],
+    "englishLessThanVeryWellPercentage": 10.7
+  },
+  {
+    "zipCode": "53201",
+    "city": "Milwaukee",
+    "state": "WI",
+    "totalPopulation": 6894,
+    "languages": [
+      { "language": "Spanish", "percentage": 22.3, "speakers": 1537 },
+      { "language": "Hmong", "percentage": 4.2, "speakers": 290 },
+      { "language": "Burmese", "percentage": 2.8, "speakers": 193 },
+      { "language": "Chinese", "percentage": 1.9, "speakers": 131 },
+      { "language": "Vietnamese", "percentage": 1.6, "speakers": 110 },
+      { "language": "Arabic", "percentage": 1.4, "speakers": 97 },
+      { "language": "Karen", "percentage": 1.2, "speakers": 83 },
+      { "language": "Somali", "percentage": 1.1, "speakers": 76 },
+      { "language": "Russian", "percentage": 0.9, "speakers": 62 },
+      { "language": "Serbo-Croatian", "percentage": 0.8, "speakers": 55 }
+    ],
+    "englishLessThanVeryWellPercentage": 12.4
+  },
+  {
+    "zipCode": "87101",
+    "city": "Albuquerque",
+    "state": "NM",
+    "totalPopulation": 5129,
+    "languages": [
+      { "language": "Spanish", "percentage": 38.6, "speakers": 1980 },
+      { "language": "Navajo", "percentage": 4.2, "speakers": 215 },
+      { "language": "Vietnamese", "percentage": 1.8, "speakers": 92 },
+      { "language": "Chinese", "percentage": 1.6, "speakers": 82 },
+      { "language": "Korean", "percentage": 1.4, "speakers": 72 },
+      { "language": "Arabic", "percentage": 1.2, "speakers": 62 },
+      { "language": "Keres", "percentage": 0.9, "speakers": 46 },
+      { "language": "Zuni", "percentage": 0.8, "speakers": 41 },
+      { "language": "German", "percentage": 0.7, "speakers": 36 },
+      { "language": "French", "percentage": 0.6, "speakers": 31 }
+    ],
+    "englishLessThanVeryWellPercentage": 19.8
+  }
+]
