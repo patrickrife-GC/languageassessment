@@ -250,7 +250,7 @@
     "zipCode": "33101",
     "city": "Miami",
     "state": "FL",
-    "totalPopulation": 54",
+    "totalPopulation": 54,
     "languages": [
       { "language": "Spanish", "percentage": 67.8, "speakers": 37 },
       { "language": "French Creole", "percentage": 12.4, "speakers": 7 },
